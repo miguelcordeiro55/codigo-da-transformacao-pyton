@@ -5,7 +5,7 @@
 # O nome será a chave e o número de telefone o valor.
 # O programa deve permitir adicionar, remover e buscar contatos.
 # ============================================================
-
+# cacheada
 def desafio_extra_agenda():
     contatos = {}
 
